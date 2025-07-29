@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Kousalya Sathyamoorthy
 
-### 💻 Full Stack Developer | React | Node.js | Java | Spring Boot  
+### 💻 Full Stack Developer | React | Node.js | JavaScript
 🔍 Actively seeking challenging roles in product-based companies  
-🎯 Target Role: Deloitte T&T-EAD Consultant – Full Stack (React + Node/NestJS)  
+🎯 Target Role: Full Stack (React + Node + JS)  
 📍 India | 💼 3+ years of professional experience  
 
 ---
@@ -10,14 +10,14 @@
 ## 🧠 About Me
 
 I’m a passionate and adaptable software developer with hands-on experience in building scalable full stack applications.  
-I specialize in frontend development with React and backend services using Node.js or Spring Boot.  
+I specialize in frontend development with React and backend services using Node.js.  
 I love clean code, performance optimization, and continuously improving my tech skills.
 
-- 🔭 Currently working on: **React Portfolio** and **Spring Boot microservices**
+
 - 🌱 Learning: **NestJS**, **Advanced System Design**, **Cloud Deployment (AWS/GCP)**
-- 💬 Ask me about: **React**, **JavaScript**, **Node.js**, **Java**, **Spring Boot**
+- 💬 Ask me about: **React**, **JavaScript**, **Node.js**, **Java**, **AWS Services**
 - 💡 Open to collaborations and exciting product ideas
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/your-link) | [Email](mailto:your-email@example.com)
+- 📫 Reach me: [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/kousalya-sathyamoorthy-7bab20244/)) | [Email](mailto:kousalyas.official@gmail.com)
 
 ---
 
@@ -35,8 +35,6 @@ I love clean code, performance optimization, and continuously improving my tech 
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs)
 
 **Database & Tools**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)  
@@ -47,17 +45,7 @@ I love clean code, performance optimization, and continuously improving my tech 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 
----
 
-## 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [📝 To-Do List App](https://github.com/kousalya-dev/todo-list-app) | A simple React app to manage tasks efficiently. | React, Vite |
-| [⏱️ Timer App](https://github.com/kousalya-dev/timer-app) | A start/stop timer that records date/time on stop. | React, LocalStorage |
-| [🌐 Portfolio Website](https://github.com/kousalya-dev/portfolio) | Personal portfolio with glowing dark UI. | React, Tailwind CSS |
-
----
 
 ## 📈 GitHub Stats
 
