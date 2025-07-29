@@ -1,4 +1,4 @@
-![Banner](https://wallpaperbat.com/img/8048010-minimalistic-apple-developer-wallpaper.jpg)
+![Banner](./unnamed.jpg)
 
 
 # 👋 Hello, I'm Kousalya Sathyamoorthy
