@@ -1,3 +1,6 @@
+![Banner](https://wallpaperbat.com/img/8048010-minimalistic-apple-developer-wallpaper.jpg)
+
+
 # 👋 Hello, I'm Kousalya Sathyamoorthy
 
 ### 💻 Full Stack Developer | React | Node.js | JavaScript
