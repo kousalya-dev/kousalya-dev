@@ -69,8 +69,7 @@ I love clean code, performance optimization, and continuously improving my tech 
 
 ## 💼 Career Goals
 
-🎯 My short-term goal is to transition into a high-impact, full stack development role at a top-tier company like **Deloitte**.  
-💸 Targeting 20+ LPA based on my skill set, performance, and current learning track.
+🎯 My short-term goal is to transition into a high-impact, full stack development role at a top-tier company.
 
 ---
 
